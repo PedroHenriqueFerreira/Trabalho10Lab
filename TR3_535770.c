@@ -16,10 +16,12 @@ int main(){
    	
    	//#########################
 
+    // Zerando os valores do vetor
     for (y = 0; y <= 199; y++) {
         x[y] = 0;
     }    
 
+    // Lendo os números e marcando no vetor bit a bit
     while (1) {
         printf("Digite um número: ");
         scanf("%d", &z);
@@ -32,6 +34,8 @@ int main(){
 
         x[z / 32] |= (1 << (z % 32));
     }
+
+    // Mostrando os números marcados bit a bit no vetor
 
     printf("Números digitados: ");
 
