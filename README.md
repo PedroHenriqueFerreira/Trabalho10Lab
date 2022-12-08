@@ -18,8 +18,14 @@ $ gcc TR3_535770.c -o TR3_535770
 ```
 
 ## Execução
+Linux:
 ```
-$ ./TR3_535770
+$ ./main
+```
+
+Windows:
+```
+$ ./main.exe
 ```
 
 ## Linguagens utilizadas
