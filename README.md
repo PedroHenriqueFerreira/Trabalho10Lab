@@ -5,7 +5,7 @@
 Este repositório contém o trabalho 3 da disciplina de laborátorio de programação, onde o usuário digita números inteiros entre 0 e 5000. Ao digitar o número -1, o programa mostra todos os números interiormente digitados sem repetições.
 
 ## Primeiros passos
-Primeiramente é necessário ter o `C` em sua máquina.
+Primeiramente é necessário ter o `gcc` em sua máquina.
 
 ## Compilação
 ```
