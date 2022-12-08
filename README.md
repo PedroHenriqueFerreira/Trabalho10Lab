@@ -7,6 +7,11 @@ Este repositório contém o trabalho 3 da disciplina de laborátorio de programa
 ## Primeiros passos
 Primeiramente é necessário ter o `gcc` em sua máquina.
 
+## Download
+```
+git clone https://github.com/PedroHenriqueFerreira/Trabalho3Lab.git 
+```
+
 ## Compilação
 ```
 $ gcc TR3_535770.c -o TR3_535770
