@@ -36,7 +36,6 @@ int main(){
     }
 
     // Mostrando os números marcados bit a bit no vetor
-
     printf("Números digitados: ");
 
     for (k = 0; k <= 5000; k++) {
